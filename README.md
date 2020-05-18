@@ -11,7 +11,7 @@ By building a simulation consisting of actors that represent the expected demogr
 
 
 This was presented at an Aresty Research Symposium in Rutgers University in 2019. 
-![Poster](https://ibb.co/Scb31KZ)
+![Image of Poster](https://i.ibb.co/PMK6b5V/Using-Computer-Simulations-to-Assess-Spatial-Efficiency-of-Architecture.jpg)
 
 
 
