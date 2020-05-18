@@ -11,7 +11,7 @@ By building a simulation consisting of actors that represent the expected demogr
 
 
 This was presented at an Aresty Research Symposium in Rutgers University in 2019. 
-![Poster](https://ibb.co/VmHsGbz)
+![Poster](https://ibb.co/ySZr3bk)
 
 
 
